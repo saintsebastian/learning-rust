@@ -1,0 +1,1 @@
+/Users/admin/development/rust/exercism/rust/bob/target/debug/bob-0d256d07d1c83f8d: /Users/admin/development/rust/exercism/rust/bob/tests/bob.rs /Users/admin/development/rust/exercism/rust/bob/src/lib.rs
