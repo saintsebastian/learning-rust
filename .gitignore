@@ -1,2 +1,9 @@
  prev
 .DS_Store
+
+### Rust ###
+**/target/
+**/**/**/target/
+**/**/**/Cargo.lock
+Cargo.lock
+**/*.rs.bk
