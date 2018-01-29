@@ -1,1 +1,0 @@
-/Users/admin/development/rust/exercism/rust/hello-world/target/debug/hello_world-fd8a9cde0c65934e: /Users/admin/development/rust/exercism/rust/hello-world/tests/hello-world.rs /Users/admin/development/rust/exercism/rust/hello-world/src/lib.rs
