@@ -9,3 +9,6 @@
    - if/else
 4. *reverse*/*fib*
    - for loops
+5. *nth prime*
+   - vectors (and some of their methods)
+   - iterating over vectors (with lambdas)
