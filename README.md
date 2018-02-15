@@ -12,3 +12,5 @@
 5. *nth prime*
    - vectors (and some of their methods)
    - iterating over vectors (with lambdas)
+6. *proverb*
+   - vector methods
